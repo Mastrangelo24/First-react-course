@@ -1,2 +1,0 @@
-To solve "npm WARN Local package.json exists, but node_modules missing, did you mean to install?" problem run npm install in terminal.
-To solve "fetch data problem" open a new terminal and run npx json-server --watch data/db.json --port 8000
