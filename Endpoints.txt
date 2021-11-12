@@ -1,0 +1,9 @@
+Endpoints 
+
+/blogs -- GET -- Fetch todas las entradas
+
+/blogs/{id} -- GET -- Fetch entrada especifica
+
+/blogs -- POST -- Nueva entrada
+
+/blogs/{id} -- DELETE -- Elimina entrada
